@@ -4,7 +4,7 @@ from qwixx_game_performer import QwixxGamePerformer
 
 import random
 
-# Monte carlo tree simulation
+# Monte carlo tree search
 class QwixxAgentMCTS():
 
 
